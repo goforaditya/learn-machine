@@ -1,5 +1,8 @@
 ---
 title: "Books"
+date: 2022-12-08T10:27:25+05:30
+draft: flase
+
 linkTitle: "Books"
 weight: 20
 menu:
@@ -8,5 +11,5 @@ menu:
 ---
 
 {{% pageinfo %}}
-Each topic is compiled in the form of a book with multiple pages.
+This is a placeholder page that shows you how to use this template site.
 {{% /pageinfo %}}
