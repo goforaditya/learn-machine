@@ -1,10 +1,7 @@
 baseURL = 'http://goforaditya.github.io/learn-machine'
 title = "learn-machine"
 
-# Language settings
-contentDir = "content/en"
-defaultContentLanguage = "en"
-defaultContentLanguageInSubdir = false
+
 # Useful when translating.
 enableMissingTranslationPlaceholders = true
 
