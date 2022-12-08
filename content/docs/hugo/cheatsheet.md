@@ -19,14 +19,13 @@ Hugo directory structure ()[https://gohugo.io/getting-started/directory-structur
 The minimum frontmatter you need to provide is a title: everything else is up to you! However, if you leave out the page weight, your navigation may get a little disorganized. You may also want to include description since Docsy uses that to generate the meta description tag used by search engines. See Search Engine Optimization (SEO) meta tags for details.
 
 ```
-+++
-title = "Adding Content"
-linkTitle = "Adding Content"
-weight = 1
-description = '''
-Add different types of content to your Docsy site.
-'''
-+++
+---
+title: "Adding Content"
+linkTitle: "Adding Content"
+weight: 1
+description: >
+    Add different types of content to your Docsy site.
+---
 
 ```
 
